@@ -1,4 +1,5 @@
 TODO:
+- Conform to new xapp template
 - Test with HIK rig - still issues with all the callbacks running.
 - Test with various rigs
 - Determine if setting custom attrs is needed
