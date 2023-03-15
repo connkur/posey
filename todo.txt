@@ -2,11 +2,10 @@ TODO:
 - Test with HIK rig - still issues with all the callbacks running.
 - Test with various rigs
 - Determine if setting custom attrs is needed
-- Research databases. Is one needed to store a lot of poses?
-    - SQLite https://docs.python.org/3/library/sqlite3.html
+- SQLite Integration, https://docs.python.org/3/library/sqlite3.html
 - Add filepath field to GUI
 - Add gridview to GUI to display pose files with temp icon
 - Add screenshot thumbnails
-- Add searchable tags if going database route
+- Add searchable tags via SQLite
 - App agnostic error messages
-- Add right click menu to library tab ( DO THIS )
+- Add right click menu to library tab
